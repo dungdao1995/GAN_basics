@@ -1,2 +1,2 @@
 # GAN_basics
-4 basic model of GAN
+Basic model of GAN
